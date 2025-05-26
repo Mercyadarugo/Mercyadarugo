@@ -48,12 +48,12 @@ You can view these projects in the [Repositories](#) section of my GitHub profil
 
 ---
 
-## 🧭 Professional Goals  
-- Complete the Google Data Analytics Professional Certificate  
+## 🧭 Professional Goals   
 - Build and share more real-world projects  
 - Gain freelance or remote work experience in data analysis  
 - Learn Python for data analysis and automation  
-- Continue growing my skills in business intelligence tools like Power BI and Tableau  
+- Continue growing my skills in business intelligence tools like Power BI and Tableau
+- Acquire an MSC in Data Analytics
 
 ---
 
