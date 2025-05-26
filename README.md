@@ -1,17 +1,73 @@
 ## Hi there 👋 i am Mercy Adarugo
 
 
-<!--
-**Mercyadarugo/Mercyadarugo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**📌 Headline:** Accountant | Data Analyst | Customer Service Professional  
+**🔗 LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/mercy-adarugo)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Mission  
+To help individuals and businesses make smart, data-driven decisions by turning raw data into clear, meaningful insights.
+
+## 🙋‍♂️ About Me  
+Hi, I’m an accountant and customer service professional growing into the world of data analytics. I have currently built skills in SQL, Power BI, Tableau, and Excel, and I’ve completed  the **Google Data Analytics Professional Certificate** program and a six month internship at Hammad Technologies and Consultancy Linited.
+
+I enjoy working with data to solve problems, tell stories, and support business decisions. My approach is practical, professional, and always focused on results.
+
+---
+
+## 🛠️ Skills  
+
+### 🔧 Technical Skills  
+- **Data Cleaning & Preparation** (Excel, SQL, Google Sheets)  
+- **Data Analysis & Visualization** (Power BI, Tableau, Excel)  
+- **Database Querying** (SQL, Google BigQuery)  
+- **Dashboard Design**  
+- **Microsoft Excel Advanced Functions**  
+- **Data Storytelling & Reporting**
+
+### 🤝 Soft Skills  
+- Attention to detail  
+- Strong communication  
+- Problem-solving mindset  
+- Time management  
+- Customer support experience  
+- Adaptability and continuous learning  
+
+---
+
+## 📊 Data Analytics Projects  
+Here are a few projects I’ve worked on (more coming soon!):
+
+- **HR Analytics Dashboard** (Power BI): Visualizing employee attrition, diversity, and satisfaction.  
+- **Financial Statement Analysis** (SQL + Excel): Comparing 10 years of financial data for two companies.  
+- **Sales Insights Report** (Powerbi): Built an interactive dashboard to track sales trends and key KPIs.  
+- **Data Cleaning Exercise** (Google Sheets): Transformed raw, messy data into a clean dataset ready for analysis.
+
+You can view these projects in the [Repositories](#) section of my GitHub profile.
+
+---
+
+## 🧭 Professional Goals  
+- Complete the Google Data Analytics Professional Certificate  
+- Build and share more real-world projects  
+- Gain freelance or remote work experience in data analysis  
+- Learn Python for data analysis and automation  
+- Continue growing my skills in business intelligence tools like Power BI and Tableau  
+
+---
+
+## 💼 My Services  
+I’m available for the following remote or freelance services:
+
+- Data cleaning and preparation  
+- Data visualization (Power BI, Excel)  
+- Financial and business reporting  
+- Creating dashboards and automated reports  
+- Data analysis for small businesses or startups  
+
+Let’s connect and see how I can help you turn your data into insights!
+
+---
+
+
