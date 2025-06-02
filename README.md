@@ -43,8 +43,9 @@ Here are a few projects I’ve worked on (more coming soon!):
 - **Financial Statement Analysis** (SQL + Excel): Comparing 10 years of financial data for two companies.  
 - **Sales Insights Report** (Powerbi): Built an interactive dashboard to track sales trends and key KPIs.  
 - **Data Cleaning Exercise** (Google Sheets): Transformed raw, messy data into a clean dataset ready for analysis.
-- **Nigeria VAT Pool 2024** (Excel + Powerbi):https://github.com/Mercyadarugo/Nigeria-VAT-Pool-2024
-You can view these projects in the [Repositories](#) section of my GitHub profile.
+- **Nigeria VAT Pool 2024** (Excel + Powerbi): Analysis on VAT Pool in Nigeria 2024. https://github.com/Mercyadarugo/Nigeria-VAT-Pool-2024.
+  
+You can view these projects in the [Repositories](https://github.com/Mercyadarugo?tab=repositories) section of my GitHub profile.
 
 ---
 
