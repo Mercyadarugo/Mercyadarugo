@@ -42,8 +42,8 @@ Here are a few projects I’ve worked on (more coming soon!):
 - **HR Analytics Dashboard** (Power BI): Visualizing employee attrition, diversity, and satisfaction.  
 - **Financial Statement Analysis** (SQL + Excel): Comparing 10 years of financial data for two companies.  
 - **Sales Insights Report** (Powerbi): Built an interactive dashboard to track sales trends and key KPIs.  
-- **Data Cleaning Exercise** (Google Sheets): Transformed raw, messy data into a clean dataset ready for analysis.
-- **Nigeria VAT Pool 2024** (Excel + Powerbi): Analysis on VAT Pool in Nigeria 2024. https://github.com/Mercyadarugo/Nigeria-VAT-Pool-2024.
+- **Payment Tracking Sheet** (Google Sheets): Developed a structured and easy-to-use tracking system that enables the company to monitor customer invoices, record payments, and identify overdue accounts, with the goal of improving.
+- **Nigeria VAT Pool 2024** (Excel + Powerbi): Analysis on VAT Pool in Nigeria 2024.
   
 You can view these projects in the [Repositories](https://github.com/Mercyadarugo?tab=repositories) section of my GitHub profile.
 
