@@ -44,6 +44,7 @@ Here are a few projects I’ve worked on (more coming soon!):
 - **Sales Insights Report** (Powerbi): Built an interactive dashboard to track sales trends and key KPIs.  
 - **Payment Tracking Sheet** (Google Sheets): Developed a structured and easy-to-use tracking system that enables the company to monitor customer invoices, record payments, and identify overdue accounts, with the goal of improving.
 - **Nigeria VAT Pool 2024** (Excel + Powerbi): Analysis on VAT Pool in Nigeria 2024.
+- **Human Right Survey** (Excel + Google form + ODK + Commcare).
   
 You can view these projects in the [Repositories](https://github.com/Mercyadarugo?tab=repositories) section of my GitHub profile.
 
