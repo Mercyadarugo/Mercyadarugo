@@ -10,7 +10,7 @@
 To help individuals and businesses make smart, data-driven decisions by turning raw data into clear, meaningful insights.
 
 ## 🙋‍♂️ About Me  
-Hi, I’m an accountant and customer service professional growing into the world of data analytics. I have currently built skills in SQL, Power BI, Tableau, and Excel, and I’ve completed  the **Google Data Analytics Professional Certificate** program and a six month internship at Hammad Technologies and Consultancy Linited.
+Hi, I’m an accountant and customer service professional growing into the world of data analytics. I have currently built skills in SQL, Power BI, Tableau, and Excel, and I’ve completed  the **Google Data Analytics Professional Certificate** program and a six month internship at Hammad Technologies and Consultancy Limited.
 
 I enjoy working with data to solve problems, tell stories, and support business decisions. My approach is practical, professional, and always focused on results.
 
